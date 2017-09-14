@@ -29,7 +29,7 @@ export class ReversePipe implements PipeTransform {
     ReversePipe
   ]
 ```
-## Por ultimo lo importamos a nuestro componente dentro del archivo .ts y dentro del .html hacemos uso del pipe mediante *ngFor
+## Por último lo importamos a nuestro componente dentro del archivo .ts y dentro del .html hacemos uso del pipe mediante *ngFor
 
 ```
 component.ts
